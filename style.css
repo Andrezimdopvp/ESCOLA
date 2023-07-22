@@ -1,0 +1,12 @@
+#img{
+    width:100%;
+    height:896px;
+    border: none;
+}
+#info{
+    height:40px;
+    background-color: rgb(29, 26, 26);
+    color: white;
+    text-align: left;
+
+}
